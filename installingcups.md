@@ -1,4 +1,4 @@
-# iNSTALLING CUPS
+# INSTALLING CUPS
 The first step to clone the cups repository through the following command:
 
 ``` 
