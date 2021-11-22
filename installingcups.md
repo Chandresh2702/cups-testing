@@ -1,8 +1,8 @@
-# NSTALLING CUPS
+# iNSTALLING CUPS
 The first step to clone the cups repository through the following command:
 
 ``` 
-git clone https://github.com/Chandresh2702/cups.git
+git clone https://github.com/OpenPrinting/cups.git
 ```
 
 Once the project was cloned, I moved into the cups directory and configured CUPS for my system through the usual "configure" script in the main CUPS source directory, using the following command:
